@@ -1,6 +1,6 @@
 # BM25 + Integer Merge Benchmark
 
-Scalar vs batched vs RVV implementations of BM25 scoring and integer merge — the code that produced the cycle counts in [Zero-Cost Abstractions on RISC-V](https://ssunil.dev/posts/zero-cost-abstractions-riscv/).
+Scalar vs batched vs RVV implementations of BM25 scoring and integer merge — the code that produced the cycle counts in [Zero-Cost Abstractions on RISC-V](https://ssunil.dev/posts/when-abstractions-hide-the-hardware/).
 
 ## Variants
 

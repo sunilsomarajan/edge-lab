@@ -2,7 +2,7 @@
  * bench_bm25.c — BM25 + integer merge: scalar vs batched vs RVV
  *
  * This is the benchmark code that produced the cycle counts in:
- *   https://ssunil.dev/posts/zero-cost-abstractions-riscv/
+ *   https://ssunil.dev/posts/when-abstractions-hide-the-hardware/
  *
  * Standalone version for reference.  The scoring kernels and
  * integer merge loops are identical to what ran on hardware.
