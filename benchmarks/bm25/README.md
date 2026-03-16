@@ -10,7 +10,7 @@ Scalar vs batched vs RVV implementations of BM25 scoring and integer merge — t
 
 ## Context
 
-Inspired by [turbopuffer's BM25 post](https://turbopuffer.com/blog/turbopuffer-bm25) on why Rust's iterator abstraction costs real cycles. We ran the same workloads on RISC-V with the Vector extension to measure the gap.
+Inspired by [turbopuffer's BM25 post](https://turbopuffer.com/blog/zero-cost) on why Rust's iterator abstraction costs real cycles. We ran the same workloads on RISC-V with the Vector extension to measure the gap.
 
 ## Building
 

@@ -11,7 +11,7 @@
  * Profiling via mcycle CSR — see profiling/riscv_cycles.h.
  *
  * Reference:
- *   https://turbopuffer.com/blog/turbopuffer-bm25
+ *   https://turbopuffer.com/blog/zero-cost
  *
  * Build (compile-check only):
  *   riscv64-elf-gcc -O2 -march=rv64gcv -mabi=lp64d -c bench_bm25.c
